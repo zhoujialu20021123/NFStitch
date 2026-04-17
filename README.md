@@ -17,11 +17,11 @@ Currently, there are no installation scripts for this repo. In order to use NFSt
 ### parameter
 
 <hr>
-Pixel size: 2.4 μm × 2.4 μm
-Sensor size: 1”
-Focal length: 12 mm
-Image circle: Φ19.3 mm (1.2")
-The distance the camera moves between two adjacent images: 60 × 60 cm (same for both horizontal and vertical directions)
+* Pixel size: 2.4 μm × 2.4 μm
+* Sensor size: 1”
+* Focal length: 12 mm
+* Image circle: Φ19.3 mm (1.2")
+* The distance the camera moves between two adjacent images: 60 × 60 cm (same for both horizontal and vertical directions)
 <hr>
 
 ## Running NFStitch
