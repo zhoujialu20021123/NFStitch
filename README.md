@@ -17,6 +17,7 @@ Currently, there are no installation scripts for this repo. In order to use NFSt
 ### parameter
 
 <hr>
+
 * `pixs size`: 2.4 μm × 2.4 μm
 
 * `Sensor size`: 1”
