@@ -7,7 +7,9 @@ This README contains instructions on how to get the data that were used in the p
 ## Data
 <hr>
 
-You can also find all the datasets at [this](https://drive.google.com/drive/folders/1gkRikD69ZKCxkpCX7XyT5qaROfny2wiJ?usp=drive_link) link. 
+You can also find all the datasets and using GIM model at [this](https://drive.google.com/drive/folders/1gkRikD69ZKCxkpCX7XyT5qaROfny2wiJ?usp=drive_link) and [this](https://drive.google.com/drive/folders/1i7DgNZWY9OPmgTKxMckctG5w8_Pu6Zum?usp=drive_link)link. 
+
+
 
 ## Requirements and Installation
 <hr>
