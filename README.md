@@ -7,12 +7,22 @@ This README contains instructions on how to get the data that were used in the p
 ## Data
 <hr>
 
-You can also find all the datasets at [this](https://data.cyverse.org/dav-anon/iplant/projects/phytooracle/papers/MegaStitch/megastitch_data.tar) link. 
+You can also find all the datasets at [this](https://drive.google.com/drive/folders/1gkRikD69ZKCxkpCX7XyT5qaROfny2wiJ?usp=drive_link) link. 
 
 ## Requirements and Installation
 <hr>
 
 Currently, there are no installation scripts for this repo. In order to use NFStitch, you need to make sure that you have all the required python packages and files, and based on your needs, you need to run one of the main entry points of the repo. It is very important to install the same versions of some of these packages in order for the code to run.  
+
+### parameter
+
+<hr>
+Pixel size: 2.4 μm × 2.4 μm
+Sensor size: 1”
+Focal length: 12 mm
+Image circle: Φ19.3 mm (1.2")
+The distance the camera moves between two adjacent images: 60 × 60 cm (same for both horizontal and vertical directions)
+<hr>
 
 ## Running NFStitch
 <hr>
