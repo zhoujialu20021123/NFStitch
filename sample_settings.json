@@ -1,0 +1,12 @@
+{
+    "nearest_number": 4,
+    "discard_transformation_perc_inlier": 0.4,
+    "transformation": "similarity",
+    "percentage_next_neighbor": 0.6,
+    "cores_to_use": 55,
+    "draw_GCPs": false,
+    "sub_set_choosing": false,
+    "N_perc": 0.05,
+    "E_perc": 0.1,
+    "preprocessing_transformation": "similarity"
+}
